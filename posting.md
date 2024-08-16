@@ -6,9 +6,6 @@ title: Post an Ad
 
 <!-- ## Adding your position to CS-PUI (2022/23) -->
 
-**📢 cs-pui jobs is currently under construction 📢** The website is currently under development. We appreciate your patience!
-{: .notice .notice-red}
-
 💡 You can email `jcrouser@smith.edu` if you run into any problems or need help.
 {: .notice .notice-blue}
 
