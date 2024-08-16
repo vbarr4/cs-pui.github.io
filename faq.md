@@ -34,8 +34,8 @@ We'd like to think that's pretty good impact-per-dollar-spent.
 #### ❓ What did the list look like in previous years? 
 {: #archive}
 
-2022-2023 marks the 5th year I am keeping track of CS PUI faculty positions. 
-- [2022-2023 Hiring Cycle](/index-22) - last year's hiring cycle. This is probably most predictive of this year's hiring cycle
+- [2023-2024 Hiring Cycle](/index-23) - last year's hiring cycle. This is probably most predictive of this year's hiring cycle
+- [2022-2023 Hiring Cycle](/index-22) 
 - [2021-2022 Hiring Cycle](/index-21)
 - [2020-2021 Hiring Cycle](/index-20) - The first year of `cs-pui.github.io`. 
 - [2019-2020 Hiring Cycle](https://evanmpeck.medium.com/cs-academic-job-market-for-liberal-arts-colleges-19-20-cd348423f919) - job ads were kept track of in a blog post
