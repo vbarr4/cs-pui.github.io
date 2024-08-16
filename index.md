@@ -10,9 +10,6 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-**📢 cs-pui jobs is currently under construction 📢** The website is not currently active for the 2024 job market. I appreciate your patience as we try balance this volunteer-run website with our normal academic responsibilities. 
-{: .notice .notice-red}
-
 
 📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
 {: .notice .notice-blue}
@@ -34,7 +31,7 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 
 ------------
 
-# Who is hiring in CS so far (2023/24)
+# Who is hiring in CS so far (2024/25)
 
 
 ## 📋 Deadlines and Quick Links (_soonest on top_)
