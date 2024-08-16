@@ -41,7 +41,7 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 {: .notice .notice-blue}
 
 {% capture table-style %}
-{% include deadlines-23.md %}
+{% include deadlines.md %}
 {% endcapture %}
 <div class="styled-table"> {{ table-style | markdownify }} </div>
 
@@ -51,6 +51,6 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 ## 📣  Ads, Links, and Locations (_alphabetical order_) 
 
 {% capture job-listing %}
-{% include descriptions-23.md %}
+{% include descriptions.md %}
 {% endcapture %}
 <div class="jobs"> {{ job-listing | markdownify }} </div>
