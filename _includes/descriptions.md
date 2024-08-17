@@ -1,15 +1,41 @@
 
 ------------
 
-### Swarthmore College
-{: #swarthmore}
+### Amherst College - Systems
+{: #amherst-systems}
 
-_Excerpt_ The Computer Science Department at Swarthmore College invites applications for a tenure track Assistant Professor position to begin fall 2025. Applicants must have or expect to have a Ph.D. in Computer Science or related field by the position’s start date. The position is open to all areas of computer science, including interdisciplinary areas. Ideal candidates will complement current course offerings, particularly in the systems area.
+_Excerpt_ The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2025.  Candidates with research in any area of computer systems, broadly construed, are welcome to apply.  Amherst College is one of the most diverse liberal arts colleges in the country.
 
-- Applications received by **October 15, 2024** will receive full consideration. Applications will be reviewed on a rolling basis until the position is filled.
-- Swarthmore, PA. USA
+- Applications received by **October 14, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Amherst, MA. USA
 
-[Full Job Posting](https://apply.interfolio.com/151923){: .button-job} 
+[Full Job Posting](http://apply.interfolio.com/151829){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Amherst College - Data Structures and Algorithms
+{: #amherst-data}
+
+_Excerpt_ The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2025.  Candidates with research in any area of data structures and algorithms, broadly construed, are welcome to apply.  Amherst College is one of the most diverse liberal arts colleges in the country. 
+
+- Applications received by **October 14, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Amherst, MA. USA
+
+[Full Job Posting](http://apply.interfolio.com/151826){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Carleton College
+{: #carleton}
+
+_Excerpt_ Carleton College invites applications for a tenure-track position in computer science at the Assistant Professor level.  Position to begin September 1, 2025. We welcome candidates with any specialization in computer science or closely related fields, and we are particularly interested in candidates committed to teaching a diverse student body. 
+
+- Applications are due **October 2, 2024.**
+- Northfield, MN. USA
+
+[Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/job/Assistant-Professor-of-Computer-Science_R-00887){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -51,41 +77,15 @@ _Excerpt_ The Department of Mathematics, Statistics, and Computer Science at St.
 
 ------------
 
-### Carleton College
-{: #carleton}
+### Swarthmore College
+{: #swarthmore}
 
-_Excerpt_ Carleton College invites applications for a tenure-track position in computer science at the Assistant Professor level.  Position to begin September 1, 2025. We welcome candidates with any specialization in computer science or closely related fields, and we are particularly interested in candidates committed to teaching a diverse student body. 
+_Excerpt_ The Computer Science Department at Swarthmore College invites applications for a tenure track Assistant Professor position to begin fall 2025. Applicants must have or expect to have a Ph.D. in Computer Science or related field by the position’s start date. The position is open to all areas of computer science, including interdisciplinary areas. Ideal candidates will complement current course offerings, particularly in the systems area.
 
-- Applications are due **October 2, 2024.**
-- Northfield, MN. USA
+- Applications received by **October 15, 2024** will receive full consideration. Applications will be reviewed on a rolling basis until the position is filled.
+- Swarthmore, PA. USA
 
-[Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/job/Assistant-Professor-of-Computer-Science_R-00887){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-------------
-
-### Amherst College - Systems
-{: #amherst-systems}
-
-_Excerpt_ The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2025.  Candidates with research in any area of computer systems, broadly construed, are welcome to apply.  Amherst College is one of the most diverse liberal arts colleges in the country.
-
-- Applications received by **October 14, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
-- Amherst, MA. USA
-
-[Full Job Posting](http://apply.interfolio.com/151829){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-------------
-
-### Amherst College - Data Structures and Algorithms
-{: #amherst-data}
-
-_Excerpt_ The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2025.  Candidates with research in any area of data structures and algorithms, broadly construed, are welcome to apply.  Amherst College is one of the most diverse liberal arts colleges in the country. 
-
-- Applications received by **October 14, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
-- Amherst, MA. USA
-
-[Full Job Posting](http://apply.interfolio.com/151826){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/151923){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
