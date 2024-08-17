@@ -12,8 +12,6 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 [Full Job Posting](http://apply.interfolio.com/151829){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
-------------
-
 ### Amherst College - Data Structures and Algorithms
 {: #amherst-data}
 
@@ -76,6 +74,20 @@ _Excerpt_ The Department of Mathematics, Statistics, and Computer Science at St.
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Pomona College
+{: #pomona}
+
+_Excerpt_ Pomona College seeks applications for an Assistant Professor of Computer Science and an Open-Rank (assistant, associate, or full) Professor of Computer Science, to begin on July 1, 2025. We seek a computer scientist with a strong commitment to inclusive undergraduate teaching across all levels of the curriculum, mentoring a diverse student body, and developing a strong independent research program that involves undergraduates. We welcome applicants with broad intellectual interests from a wide range of subdisciplines, with a preference for candidates whose research and teaching interests are in theory, systems, programming languages, or other areas that complement those of the current faculty. The teaching commitment is four courses per year over two semesters of instruction. Candidates should have a Ph.D. in hand by the start date.
+
+- Review of applications will begin on **October 6, 2024**, and will continue until the position is filled.
+- Claremont, CA. USA
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/27931){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 
 ### Swarthmore College
 {: #swarthmore}
