@@ -14,15 +14,26 @@ _Excerpt_ The Computer Science Department at Swarthmore College invites applicat
 
 ------------
 
-### College of the Holy Cross
+### College of the Holy Cross - All Areas
 {: #holy-cross}
 
-_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science beginning August 2025. All research specialties will be considered. A Ph.D. in computer science or closely related field is required by the beginning of the appointment. 
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science beginning August 2025. For this position, all research specialties will be considered. A Ph.D. in computer science or closely related field is required by the beginning of the appointment. 
 
 - Application review will begin on **October 8, 2024** and continue until the position has been filled.
 - Worcester, MA. USA
 
 [Full Job Posting](https://apply.interfolio.com/151805){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+### College of the Holy Cross - Ethics in CS
+{: #holy-cross-ethics}
+
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for the full-time tenure-track Barrett Assistant Professor in Computer Science beginning August 2025. For this position, applicants should demonstrate an interest and expertise in the ethical, legal, and moral dimensions of computing and technology, and conduct research or teaching in related areas such as: data privacy and data ethics; alignment and algorithmic fairness; information, speech, and policy; technology ethics; design/engineering of ethical technologies; technologies and methods related to misinformation, disinformation, trust, and authenticity; algorithmic bias and accountability; or equitable computing. A Ph.D. in computer science or closely related field is required by the beginning of the appointment. 
+
+- Application review will begin on **October 8, 2024** and continue until the position has been filled.
+- Worcester, MA. USA
+
+[Full Job Posting](https://apply.interfolio.com/151804){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
