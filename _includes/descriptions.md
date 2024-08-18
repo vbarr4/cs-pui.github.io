@@ -63,6 +63,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Hamilton College
+{: #hamilton}
+
+_Excerpt_ The Computer Science Department at Hamilton College invites applications for two tenure-track positions at the rank of Assistant Professor, beginning July 1, 2025. We seek candidates with expertise in an applied area of systems (such as graphics, networks, security, programming languages, or operating systems) or artificial intelligence (such as natural language processing, computer vision, or machine learning). We are seeking candidates who can demonstrate their experience in teaching or working with broadly diverse student populations. Your cover letter should address the ways in which you would further the College's goals of enhancing the educational experiences of students while building a diverse and inclusive educational environment. The position requires institutional service including academic advising of undergraduate students after the first year.
+
+- Our review of applications will begin on **October 1, 2024**
+- Hamilton, NY. USA
+
+[Full Job Posting](https://apply.interfolio.com/150967){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### College of the Holy Cross - All Areas
 {: #holy-cross}
 
