@@ -7,9 +7,10 @@ title: Resources
 A handful of resources that include wisdom from CS faculty at PUIs:
 
 - The [Computing Research Association](https://cra.org/crae/) held a series of recorded panels in May 2024 with faculty in teaching-related roles (teaching-track, PUIs) that reflect on the following questions:
-  - [What is the landscape of teaching-oriented careers?](https://www.youtube.com/watch?v=YnzxidGoRfY)
-  - [How can I prepare myself for a teaching-oriented career?](https://www.youtube.com/watch?v=yaO1zh385lI)
-  - [How do I apply for a teaching oriented-career?](https://www.youtube.com/watch?v=MhoPv4Ac3B8)
+  - [**What is the landscape of teaching-oriented careers?**](https://www.youtube.com/watch?v=YnzxidGoRfY)
+  - [**How can I prepare myself for a teaching-oriented career?**](https://www.youtube.com/watch?v=yaO1zh385lI)
+  - [**How do I apply for a teaching oriented-career?**](https://www.youtube.com/watch?v=MhoPv4Ac3B8)
+
 
 - Dr. Iris Howley's (Williams College) [**Some Resources for the Primarily Undergraduate Institution Computer Science Job Market**](https://docs.google.com/document/d/1JGyp7_NJKDAjCpsm8Z5_lty0P76jk3bhPPMdQJaF0nw/edit?usp=sharing): Provides links to lots of different resources related to faculty positions at CS primarily-undergraduate institutions. 
 
