@@ -25,6 +25,30 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 
 ------------
 
+### Bowdoin College - Digital and Computational Studies
+{: #bowdoin-comp}
+
+_Excerpt_ Bowdoin College’s Program of Digital and Computational Studies (DCS) invites applications for a full-time tenure-track faculty appointment at the Assistant Professor level, beginning July 1, 2025. The position subfield is open, with a preference for candidates whose scholarship or artistic practice involves the critique or creation of digital or computational technologies from an interdisciplinary perspective that embraces the bidirectionality of DCS (described in detail on program website). The teaching load is two courses per semester. Topics for these courses include, but are not limited to, introductory computational methods, statistical methods, text analysis, network analysis, spatial analysis, societal impact of AI, digital media, art and technology, social media, and an advanced course in the candidate’s area of specialization. A PhD is expected by date of appointment. We are particularly interested in candidates with a strong commitment to undergraduate liberal arts education.
+
+- Review of applications will begin **September 23, 2024** and continue until the position is filled.
+- Bowdoin, ME. USA
+
+[Full Job Posting](https://careers.bowdoin.edu/postings/14478){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+### Bowdoin College - Computer Science
+{: #bowdoin-cs}
+
+_Excerpt_ Bowdoin College’s Department of Computer Science invites applications for two full-time tenure-track faculty appointments at the Assistant Professor level, beginning July 1, 2025. We welcome applications from all areas of computer science, especially those that focus on systems and software engineering, bioinformatics, AI, data science and applications, and human-computer interaction. We also welcome applications from areas that cross disciplinary boundaries. The teaching load is two courses per semester. The successful candidates will share responsibility for introductory and intermediate level courses, teach advanced courses in their area of specialization, and encourage student involvement in their research. A PhD in Computer Science is expected by the date of appointment. Advanced ABD considered. We are particularly interested in candidates with a strong commitment to undergraduate liberal arts education.
+
+- Review of applications will begin **October 1, 2024** and continue until the positions are filled.
+**
+- Bowdoin, ME. USA
+
+[Full Job Posting](https://careers.bowdoin.edu/postings/14488){: .button-job} 
+[_back to all deadlines_](#deadlines)
+------------
+
 ### Carleton College
 {: #carleton}
 

@@ -1,6 +1,8 @@
 
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
+| [Bowdoin College - Digital & Comp Studies](#bowdoin-comp) | Bowdoin, ME. USA | 09/23/2024 |
+| [Bowdoin College - CS](#bowdoin-cs) | Bowdoin, ME. USA | 10/01/2024 |
 | [St. Olaf College](#st-olaf) | Northfield, MN. USA | 10/01/2024 |
 | [Carleton College](#carleton) | Northfield, MN. USA | 10/02/2024 |
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/06/2024 |
