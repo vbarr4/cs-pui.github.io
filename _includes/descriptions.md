@@ -47,6 +47,7 @@ _Excerpt_ Bowdoin College’s Department of Computer Science invites application
 
 [Full Job Posting](https://careers.bowdoin.edu/postings/14488){: .button-job} 
 [_back to all deadlines_](#deadlines)
+
 ------------
 
 ### Carleton College
