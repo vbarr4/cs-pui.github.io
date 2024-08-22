@@ -12,5 +12,6 @@
 | [College of the Holy Cross - Ethics in CS](#holy-cross-ethics) |Worcester, MA. USA | 10/08/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
+| [Ithaca College](#ithaca) | Ithada, NY. USA | 10/14/2024 |
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
