@@ -139,6 +139,19 @@ _Excerpt_ Pomona College seeks applications for an Assistant Professor of Comput
 
 ------------
 
+### Richmond University
+{: #richmond}
+
+_Excerpt_ The University of Richmond Department of Computer Science invites applications for a full-time tenure-track position at the rank of Assistant Professor to begin in August, 2025. A Ph.D. in computer science is required for this position, and it must be completed by the start date. We welcome applicants from a variety of fields within computer science. The successful applicant is expected to commit to highly effective teaching at all levels of the curriculum and to maintain a productive research program that engages undergraduates in meaningful research outcomes while strengthening the inclusive environment to make computer science accessible to students from all backgrounds.
+
+- Review of applications will commence on **October 18** and continue until the position is filled.
+- Richmond, VA. USA
+
+[Full Job Posting](https://richmond.csod.com/ux/ats/careersite/1/home/requisition/3296?c=richmond){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 
 ### Swarthmore College
 {: #swarthmore}
