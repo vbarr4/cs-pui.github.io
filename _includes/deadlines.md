@@ -13,4 +13,5 @@
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
+| [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
