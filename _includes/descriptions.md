@@ -100,6 +100,19 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 ------------
 
+### Ithaca College
+{: #ithaca}
+
+_Excerpt_ The Ithaca College Computer Science Department invites applications for a tenure-eligible computer science position from any area of specialization starting in the 2025-2026 academic year.  Appointees must hold a Ph.D. (or ABD status) in Computer Science or a related field. Successful candidates will show potential for teaching excellence and fostering an inclusive environment throughout the CS curriculum. Candidates should also have an active research agenda that incorporates undergraduate students. Candidates from underrepresented groups and/or who have experience or interest in fostering an inclusive learning environment are particularly encouraged to apply.
+
+- Application review will begin on **October 14, 2024** and continue until the position has been filled.
+- Ithaca, NY. USA
+
+[Full Job Posting](https://ehwy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2549?keyword=computer+science){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### St. Olaf College
 {: #st-olaf}
 
