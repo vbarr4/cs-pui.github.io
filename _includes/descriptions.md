@@ -165,6 +165,19 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### Rose-Hulman Institute of Technology
+{: #rose-hulman}
+
+_Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hulman invites tenure-track faculty applications with an anticipated start date of August 2025 ... Qualified candidates will have a doctorate (or near completion) in computer science, software engineering or closely related fields (including engineering education with an emphasis on these fields) and evidence of, or demonstrated potential for, excellence in undergraduate teaching ... The department and the Institute place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. Candidates who can further broaden and enhance the educational experience of our students are also encouraged to apply.Essential job responsibilities include teaching and advising students, continued professional development, and service to the department, Institute and professional community
+
+- Initial review of completed applications will begin **September 20**. Applications will be accepted until the positions are filled.
+- Terre Haute, IN. USA
+
+[Full Job Posting](https://rosehulman.csod.com/ux/ats/careersite/9/home/requisition/608?c=rosehulman){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Swarthmore College
 {: #swarthmore}
 

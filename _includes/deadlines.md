@@ -1,6 +1,7 @@
 
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
+| [Rose-Hulman Institute of Technology](#rose-hulman) | Terre Haute, IN. USA | 09/20/2024 |
 | [Bowdoin College - Digital & Comp Studies](#bowdoin-comp) | Bowdoin, ME. USA | 09/23/2024 |
 | [Bowdoin College - CS](#bowdoin-cs) | Bowdoin, ME. USA | 10/01/2024 |
 | [Hamilton College](#hamilton) | Hamilton, NY. USA | 10/01/2024
