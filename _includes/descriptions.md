@@ -139,6 +139,19 @@ _Excerpt_ Pomona College seeks applications for an Assistant Professor of Comput
 
 ------------
 
+### Rhodes College
+{: #rhodes}
+
+_Excerpt_ The Department of Computer Science at Rhodes College invites applications for a full-time, tenure-track position at the rank of Assistant or Associate Professor to begin in August 2025. Our vibrant department is looking for a colleague who is excited about teaching and research at a liberal arts college. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research.
+
+- Applications received by **October 1, 2024** will receive full consideration. Applications will be reviewed on a rolling basis until the position is filled.
+- Memphis, TN. USA
+
+[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/en-US/Rhodes_Careers/details/Assistant-Associate-Professor-of-Computer-Science_JR-605){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Richmond University
 {: #richmond}
 
@@ -152,7 +165,6 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
-
 ### Swarthmore College
 {: #swarthmore}
 
@@ -162,19 +174,6 @@ _Excerpt_ The Computer Science Department at Swarthmore College invites applicat
 - Swarthmore, PA. USA
 
 [Full Job Posting](https://apply.interfolio.com/151923){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-------------
-
-### Rhodes College
-{: #rhodes}
-
-_Excerpt_ The Department of Computer Science at Rhodes College invites applications for a full-time, tenure-track position at the rank of Assistant or Associate Professor to begin in August 2025. Our vibrant department is looking for a colleague who is excited about teaching and research at a liberal arts college. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research.
-
-- Applications received by **October 1, 2024** will receive full consideration. Applications will be reviewed on a rolling basis until the position is filled.
-- Memphis, TN. USA
-
-[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/en-US/Rhodes_Careers/details/Assistant-Associate-Professor-of-Computer-Science_JR-605){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
