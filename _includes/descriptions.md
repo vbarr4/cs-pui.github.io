@@ -166,6 +166,22 @@ _Excerpt_ The Department of Computer Science at Rhodes College invites applicati
 
 ------------
 
+### Wesleyan University
+{: #wesleyan}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Wesleyan University invites applications for a tenure-track assistant
+professorship in Computer Science to begin July 1, 2025.  We encourage  candidates in all areas of Computer Science to apply, including those who deepen or broaden our existing research strengths, and especially encourage candidates who can contribute to the diversity of the
+department. Theory, programming languages, algorithms, networking, privacy and security, and robotics are well-represented in the
+department. Wesleyan values both research and teaching very highly. The teaching load is 3 courses per year. Apply at https://academicjobsonline.org/ajo/jobs/28099 by October 15, 2024.
+  
+- We will begin reviewing applications on **October 15, 2024**, but will continue accepting applications until the position is filled.  
+- Middletown, CT. USA
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/28099){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Williams College
 {: #williams}
 
