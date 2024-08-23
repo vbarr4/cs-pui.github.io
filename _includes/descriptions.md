@@ -139,6 +139,25 @@ _Excerpt_ Pomona College seeks applications for an Assistant Professor of Comput
 
 ------------
 
+### Randolph-Macon College
+{: #randolph}
+
+_Excerpt_ Randolph-Macon College invites applications for a full-time, tenure-track position of Assistant Professor in the Department of Computer Science to begin September 2025.  All areas of specialization will be considered, but we are especially interested in applicants with experience or specialization in an area of security.  
+
+Minimum Qualifications: 
+A Ph.D. in Computer Science or a closely related field
+Evidence of a commitment to undergraduate teaching and student engagement
+Commitment to implementing effective pedagogy in the classroom; and
+Commitment to working with people from diverse backgrounds and a demonstrated commitment to pedagogical methods that enable students across racial, ethnic, and socioeconomic groups to reach their maximum potential.
+
+- Review of applications will begin on **October 21, 2024**, and will continue until the position is filled.
+- Ashland, VA. USA
+
+[Full Job Posting](https://bit.ly/4dPECH4){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Rhodes College
 {: #rhodes}
 
