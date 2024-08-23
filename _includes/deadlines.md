@@ -17,4 +17,5 @@
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
+| [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
