@@ -13,7 +13,8 @@
 | [College of the Holy Cross - Ethics in CS](#holy-cross-ethics) |Worcester, MA. USA | 10/08/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
-| [Ithaca College](#ithaca) | Ithada, NY. USA | 10/14/2024 |
+| [Ithaca College](#ithaca) | Ithaca, NY. USA | 10/14/2024 |
+| [Bard College] (#bard) | Annandale-on-Hudson, NY. USA | 10/15/2024 |
 | [Swarthmore College](#swarthmore) | Swarthmore, PA. USA | 10/15/2024 |
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
