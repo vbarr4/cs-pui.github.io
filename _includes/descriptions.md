@@ -63,8 +63,21 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Davidson College
+{: #davidson}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2025. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department welcomes applicants from all areas of computer science who can support and expand our curriculum, and enhance research opportunities for our majors.
+
+- Applications are due **October 8, 2024.**
+- Davidson, NC. USA
+
+[Full Job Posting](https://employment.davidson.edu){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Franklin & Marshall College
-{: #frank-marshall}
+{: #f&m}
 
 _Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2025.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, or a related field.  Candidates must apply electronically via Interfolio: [http://apply.interfolio.com/153132](http://apply.interfolio.com/153132).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu). 
 

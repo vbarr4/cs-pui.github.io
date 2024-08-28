@@ -11,6 +11,7 @@
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/06/2024 |
 | [College of the Holy Cross - All Areas](#holy-cross) |Worcester, MA. USA | 10/08/2024 |
 | [College of the Holy Cross - Ethics in CS](#holy-cross-ethics) |Worcester, MA. USA | 10/08/2024 |
+| [Davidson College](#davidson) |Davidson, NC. USA | 10/08/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
 | [Amherst College - Data Structures & Algorithm](#amherst-data) |Amherst, MA. USA | 10/14/2024 |
 | [Ithaca College](#ithaca) | Ithada, NY. USA | 10/14/2024 |
@@ -18,5 +19,5 @@
 | [Wesleyan University](#wesleyan) | Middletown, CT. USA | 10/15/2024 |
 | [Richmond University](#richmond) | Richmond, VA. USA | 10/18/2024 | 
 | [Randolph-Macon College](#randolph) | Ashland, VA. USA | 10/21/2024 | 
-| [Franklin & Marshall College](#frankin-marshall) | Lancaster, PA. USA | 10/25/2024 |
+| [Franklin & Marshall College](#f&m) | Lancaster, PA. USA | 10/25/2024 |
 | [Williams College](#williams) | Williamstown, MA. USA | 11/08/2024 |
